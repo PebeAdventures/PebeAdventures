@@ -1,0 +1,5 @@
+# Ignore the temp folder
+temp
+
+# Ignore .tmp extensions
+*.tmp
